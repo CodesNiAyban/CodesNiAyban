@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodesNiAyban
-- 👀 I’m interested in nothinh
+- 👀 I’m interested in nothing
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me is none
