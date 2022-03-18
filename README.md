@@ -10,9 +10,9 @@
 <a href="https://www.credly.com/badges/f932728e-8fd0-4afd-a15e-9cafa46670a3/public_url"><img src="badge/it-specialist-python.png" width = 128px></a>
 
 ### Github Stats
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=CodesNiAyban&theme=tokyonight)](https://github.com/CodesNiAyban)
+<img align = "left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=CodesNiAyban&show_icons=true&theme=tokyonight">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesNiAyban&layout=compact&theme=tokyonight)](https://github.com/CodesNiAyban)
+<img align = "right" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CodesNiAyban&layout=compact&theme=tokyonight">
 
 
 <!---
