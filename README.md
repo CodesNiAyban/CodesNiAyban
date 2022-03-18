@@ -1,12 +1,9 @@
 ### Bio
-- 👋 Hi, I’m @CodesNiAyban.
-- 👀 I’m interested in nothing.
-- 🌱 I’m currently learning nothing.
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me is none.
-
-### Test
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8738b60e-f835-4d14-bbe8-6777554eb494" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- 👋 Hi, I’m Ivan Dominic G. Albano
+- 👀 I’m interested in Java, C++ and Python programming
+- 🌱 I’m currently learning kotlin language
+- 💞️ I’m looking to collaborate on kotlin based projects
+- 📫 How to reach me is https://www.facebook.com/ivan.albano777
 
 ### Badges
 <a href="https://www.credly.com/badges/8738b60e-f835-4d14-bbe8-6777554eb494/public_url"><img src="badge/mta-introduction-to-programming-using-java-certified-2021.png" width = 128px></a>
