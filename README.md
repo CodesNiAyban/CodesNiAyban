@@ -1,8 +1,8 @@
 ### Bio
 - 👋 Hi, I’m Ivan Dominic G. Albano
 - 👀 I’m interested in Java, C++ and Python programming
-- 🌱 I’m currently learning kotlin language
-- 💞️ I’m looking to collaborate on kotlin based projects
+- 🌱 I’m currently learning Kotlin language
+- 💞️ I’m looking to collaborate on Kotlin, Java, C++ and Python based projects
 - 📫 How to reach me is https://www.facebook.com/ivan.albano777
 
 ### Badges
