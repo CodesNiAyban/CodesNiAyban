@@ -1,8 +1,8 @@
 ### Bio
 - 👋 Hi, I’m Ivan Dominic G. Albano
-- 👀 I’m interested in Java, C++ and Python programming
-- 🌱 I’m currently learning Node JS React language
-- 💞️ I’m looking to collaborate on Kotlin, Java, C++ and Python based projects
+- 👀 I’m interested in Next JS, Typescript and Python programming
+- 🌱 I’m currently learning Next JS
+- 💞️ I’m looking to collaborate on Kotlin, Java, React, React Native, C++ and Python based projects
 - 📫 How to reach me is https://www.facebook.com/ivan.albano777
 
 ### Badges
